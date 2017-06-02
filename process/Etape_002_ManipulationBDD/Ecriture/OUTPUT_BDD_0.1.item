@@ -248,7 +248,7 @@
     <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="flux_de_donnees" show="false"/>
   </connection>
-  <note opaque="true" posX="160" posY="160" sizeHeight="64" sizeWidth="96" text="SVN2"/>
+  <note opaque="false" posX="160" posY="160" sizeHeight="64" sizeWidth="96" text="SVN2 -BRANCH1"/>
   <subjob>
     <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRowGenerator_1" show="false"/>
